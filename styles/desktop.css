@@ -22,7 +22,7 @@ header h1 a:hover {
   color: #06F9C2;
 }
 nav li a:hover {
-  color: #7e8aa2;
+  color: #06F9C2;
 }
 nav ul {
   padding-left: 0;
@@ -33,7 +33,7 @@ nav ul li {
   padding-left: 10px;
   padding-right: 10px;
   border: none;
-  border-left: 1px solid #7e8aa2;
+  border-left: 1px solid #06F9C2;
 }
 nav li:first-child {
   border-left: none;
@@ -53,7 +53,7 @@ nav li:first-child {
 .sidebar {
   flex: 0 1 200px;
   padding: 20px 40px;
-  border: 1px solid #ccc;
+  border: 1px solid #06F9C2;
   border-radius: 8px;
   margin: 70px 0 0 10px;
 }

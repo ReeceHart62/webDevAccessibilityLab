@@ -22,7 +22,7 @@ header h1 {
   margin: 0;
 }
 header h1 a {
-  color: #fff;
+  color: #06F9C2;
   text-decoration: none;
 }
 nav ul {
@@ -33,7 +33,7 @@ nav ul {
   flex-direction: column;
 }
 nav ul li {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #06F9C2;
   padding: 5px;
 }
 nav ul li a {
@@ -41,7 +41,7 @@ nav ul li a {
   width: 100%;
   font-weight: bold;
   text-decoration: none;
-  color: #fff;
+  color: #06F9C2;
   padding: 8px 0;
 }
 section img {
@@ -59,7 +59,7 @@ input[type="email"] {
   font-size: 1.2rem;
 }
 footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #06F9C2;
   margin: 20px 10px 10px 0;
   font-size: 0.8em;
   text-align: center;
