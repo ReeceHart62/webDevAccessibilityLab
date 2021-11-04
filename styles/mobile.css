@@ -13,9 +13,10 @@ footer {
 }
 #logo {
   text-align: center;
+  color: #06F9C2;
 }
 header {
-  background-color: #263248;
+  background-color: #f9063d;
 }
 header h1 {
   margin: 0;
