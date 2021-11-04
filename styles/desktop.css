@@ -12,12 +12,14 @@ header {
   border-radius: 8px;
   display: flex;
   justify-content: space-between;
+  background-color: #f9063d;
 }
 header h1 a:hover {
   text-decoration: underline;
 }
 #logo {
   padding: 10px;
+  color: #06F9C2;
 }
 nav li a:hover {
   color: #7e8aa2;
